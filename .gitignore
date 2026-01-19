@@ -1,0 +1,8 @@
+venv/
+data/
+X.npy
+Y.npy
+*.h5
+.vscode/
+__pycache__/
+*.pyc
