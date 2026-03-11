@@ -41,7 +41,7 @@ cv-project/
 
 1. Clone the repository:
 
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/IbtissamToure/drowsiness-detection.git
 cd repo-name
 
 2. Create a virtual environment:
